@@ -4,4 +4,5 @@ public class Nodo<T> {
     Nodo<T> right;
     Nodo<T> root;
     int data;
+    
 }
